@@ -1,6 +1,8 @@
 
+### TO DO: 
+Edit the readme
 
-## Reachability Analysis is this heading even necessary in the project ? 
+## Reachability Analysis
 
 ### Introduction
   <img align="right" src="images/ur10_img.png" alt="Robot Preview" width="350">
