@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: ur_description
+    relative_path: urdf/robo.urdf
+  srdf:
+    relative_path: config/ur.srdf
+  package_settings:
+    author_name: shreyansh
+    author_email: shreyansh.sh99@gmail.com
+    generated_timestamp: 1743637250
